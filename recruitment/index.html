@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<title>Digimon World Recruitment Helper</title>
+	</head>
+	<body>
+		<h1>Digimon World Recruitment Helper</h1>
+		<span>
+		<div id="status">
+			prosperity points:
+			<div id="prosperityPoints">
+				0
+			</div>
+			<div id="inventory">
+			</div>
+			<div id="bits">
+			</div>
+
+		</div>
+
+		<div>
+			<p>check digimon you already recruited</p>
+		</div>
+		<div id="doneList"></div>
+		<div id="recruitmentList"></div>
+		
+
+		</span>
+		<span>
+			
+		<div id="digiList">test</div>
+		<div>
+
+		</div>
+		</span>
+		<span id="allDigi"></span>
+		<script type="text/javascript" src="digiEnemies.js"></script>
+		<script type="text/javascript" src="digEnemies.js"></script>
+		<script type="text/javascript" src="extraData.js"></script>
+		<script type="text/javascript" src="digiStats.js"></script>
+		<script type="text/javascript" src="data.js"></script>
+		<script type="text/javascript" src="mapData.js"></script>
+		<script type="text/javascript" src="functions.js"></script>
+		<script type="text/javascript">
+			//alert(https://docs.google.com/spreadsheets/d/<<YOUR SPREADSHEET FILE ID>>/gviz/tq?tqx=out:html&tq=select%20A%20where%20A%20%21%3d%27%20%27&gid=<<YOUR SHEET ID>>)
+			window.onload = start();
+			function handleClick(cb) {
+				alert("Clicked, new value = " + cb.id);//cb.checked);
+			}
+			//Object.getOwnPropertyNames(cb)
+		</script>
+
+	</body>
+</html>
