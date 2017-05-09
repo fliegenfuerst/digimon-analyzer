@@ -1,0 +1,19 @@
+
+select.digimon {
+  background-position: 1px 1px;
+  width: 160px;
+}
+
+.digimon {
+  background-repeat: no-repeat;
+  background-position: 1px 0px;
+  padding-left: 18px;
+}
+
+span{
+	position:relative;
+	float:left;
+}
+table, td, tr{
+	border:solid;
+}
