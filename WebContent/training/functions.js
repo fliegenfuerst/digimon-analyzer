@@ -56,11 +56,11 @@ function setBoost(cb){
 	}
 	getTrainingValues();
 }
+var rbList=classGet("trainingItem");
 function setTrainingItem(rb){
 	carrot=[1,1,1,1,1,1];
 	raddish=[1,1,1,1,1,1];
 	pine=1;
-	var rbList=document.getElementsByClassName("trainingItem");
 	if (rb.checked===true){
 		for (var i=0;i<rbList.length;i++) {
 			rbList[i].checked=false;
@@ -80,28 +80,29 @@ function setTrainingItem(rb){
 	}
 	getTrainingValues();
 }
-var slotRadioButtons=classGet("slots");
+var slotRBs=classGet("slots");
 function setSlots(rb){
-	for(var s=0;s<slotRadioButtons.length;s++){
-		slotRadioButtons[s].checked=false;
+	slots=1;
+
+	if (rb.checked===true){
+	for(var s=0;s<slotRBs.length;s++){
+		slotRBs[s].checked=false;
 	}
 	rb.checked=true;
 	switch(rb.id){
-		case "none":
-			slots=1;
-			break;
 		case "fail":
 			slots=0.5;
 			break;
-		case "same":
+		case "other":
 			slots=2;
 			break;
-		case "other":
+		case "same":
 			slots=4;
 			break;
 		case "gold":
 			slots=10;
 			break;
+	}
 	}
 	getTrainingValues();
 }
@@ -290,4 +291,7 @@ function start(){
 }
 function classGet(name){
 	return document.getElementsByClassName(name);
+}
+function idGet(id){
+    return document.getElementById(id);
 }
