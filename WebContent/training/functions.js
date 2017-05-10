@@ -166,8 +166,10 @@ function radioBtn(rb){
 				brnTrain=blank;
 				break;
 		}
+		getTrainingValues();
+	}else{
+		rb.checked=true;
 	}
-	getTrainingValues();
 }
 function getTrainingValues(){
 	var multiplier;
