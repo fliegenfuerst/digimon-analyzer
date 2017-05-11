@@ -18,6 +18,13 @@ var carrot=[1,1,1,1,1,1];
 var raddish=[1,1,1,1,1,1];
 var pine=1;
 var slots=1;
+
+var hpTraining=idGet("hpTraining");
+var mpTraining=idGet("mpTraining");
+var offTraining=idGet("offTraining");
+var defTraining=idGet("defTraining");
+var spdTraining=idGet("spdTraining");
+var brnTraining=idGet("brnTraining");
 function setBoost(cb){
 	var boost=1;
 	if (cb.checked){
@@ -114,6 +121,7 @@ function radioBtn(rb){
 		}
 		rb.checked=true;
 		extra=false;
+		displayAll();
 		switch(rb.id){
 			case "greenGym":
 				hpTrain=[80,0,2,0,0,0];
@@ -131,6 +139,8 @@ function radioBtn(rb){
 				defTrain=[0,0,0,12,0,0];
 				spdTrain=[0,0,0,0,12,0];
 				brnTrain=blank;
+				mpTraining.className="hidden";
+				brnTraining.className="hidden";
 				break;
 			case "leomonGym":
 				hpTrain=blank;
@@ -139,6 +149,10 @@ function radioBtn(rb){
 				defTrain=blank;
 				spdTrain=[10,0,0,0,8,0];
 				brnTrain=blank;
+				hpTraining.className="hidden";
+				mpTraining.className="hidden";
+				defTraining.className="hidden";
+				brnTraining.className="hidden";
 				break;
 			case "iceSanctGym":
 				hpTrain=[120,0,0,2,0,0];
@@ -147,6 +161,10 @@ function radioBtn(rb){
 				defTrain=[0,0,0,12,2,0];
 				spdTrain=blank;
 				brnTrain=blank;
+				mpTraining.className="hidden";
+				offTraining.className="hidden";
+				spdTraining.className="hidden";
+				brnTraining.className="hidden";
 				break;
 			case "cherrymonGym":
 				hpTrain=blank;
@@ -155,6 +173,11 @@ function radioBtn(rb){
 				defTrain=blank;
 				spdTrain=blank;
 				brnTrain=[0,10,0,0,0,8];
+				hpTraining.className="hidden";
+				mpTraining.className="hidden";
+				offTraining.className="hidden";
+				defTraining.className="hidden";
+				spdTraining.className="hidden";
 				extra=true;
 				break;
 			case "trashMTGym":
@@ -164,6 +187,11 @@ function radioBtn(rb){
 				defTrain=blank;
 				spdTrain=blank;
 				brnTrain=blank;
+				hpTraining.className="hidden";
+				offTraining.className="hidden";
+				defTraining.className="hidden";
+				spdTraining.className="hidden";
+				brnTraining.className="hidden";
 				break;
 		}
 		getTrainingValues();
@@ -296,4 +324,12 @@ function classGet(name){
 }
 function idGet(id){
     return document.getElementById(id);
+}
+function displayAll(){
+	hpTraining.className="";
+	mpTraining.className="";
+	offTraining.className="";
+	defTraining.className="";
+	spdTraining.className="";
+	brnTraining.className="";
 }

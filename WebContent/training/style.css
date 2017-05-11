@@ -17,3 +17,6 @@ span{
 table, td, tr{
 	border:solid;
 }
+.hidden{
+	display:none;
+}
