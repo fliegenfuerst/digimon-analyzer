@@ -13,6 +13,8 @@ var resultArr=[1,1,1,1,1,1];
 var trainingPreference=[1,1,1,1,1,1];
 var kuwaga=[1,1,1,1,1,1];
 var kabuteri=[1,1,1,1,1,1];
+var kuwagaChecked=false;
+var kabuteriCheck=false;
 var manual=1;
 var carrot=[1,1,1,1,1,1];
 var raddish=[1,1,1,1,1,1];
@@ -90,7 +92,6 @@ function setTrainingItem(rb){
 var slotRBs=classGet("slots");
 function setSlots(rb){
 	slots=1;
-
 	if (rb.checked===true){
 	for(var s=0;s<slotRBs.length;s++){
 		slotRBs[s].checked=false;
@@ -122,8 +123,14 @@ function radioBtn(rb){
 		rb.checked=true;
 		extra=false;
 		displayAll();
+		kuwagaTraining.className="hidden";
+		kabuteriTraining.className="hidden";
+		babyTraining.className="hidden";
 		switch(rb.id){
 			case "greenGym":
+				kuwagaTraining.className="";
+				kabuteriTraining.className="";
+				babyTraining.className="";
 				hpTrain=[80,0,2,0,0,0];
 				mpTrain=[0,80,0,2,0,0];
 				offTrain=[0,0,8,0,2,0];

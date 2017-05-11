@@ -38,33 +38,35 @@
 				</label></td>
 			</tr>
 		</table>
-		<div>
-			<p>
-				check stats that you have trained at least<br />10 times with a
-				fresh/in-training Digimon<br />(brains get upgraded alongside MP,
-				this is a bug in the game)
-			</p>
-		</div>
+		<div id="babyTraining">
+			<div>
+				<p>
+					check stats that you have trained at least<br />10 times with a
+					fresh/in-training Digimon<br />(brains get upgraded alongside MP,
+					this is a bug in the game)
+				</p>
+			</div>
 
-		<table>
-			<tr>
-				<td><label>HP<br /> <input type='checkbox'
-						name='checkbox' id="hp" onclick='setBoost(this);'>
-				</label></td>
-				<td><label>MP<br /> <input type='checkbox'
-						name='checkbox' id="mp" onclick='setBoost(this);'>
-				</label></td>
-				<td><label>OFF<br /> <input type='checkbox'
-						name='checkbox' id="off" onclick='setBoost(this);'>
-				</label></td>
-				<td><label>DEF<br /> <input type='checkbox'
-						name='checkbox' id="def" onclick='setBoost(this);'>
-				</label></td>
-				<td><label>SPD<br /> <input type='checkbox'
-						name='checkbox' id="spd" onclick='setBoost(this);'>
-				</label></td>
-			</tr>
-		</table>
+			<table>
+				<tr>
+					<td><label>HP<br /> <input type='checkbox'
+							name='checkbox' id="hp" onclick='setBoost(this);'>
+					</label></td>
+					<td><label>MP<br /> <input type='checkbox'
+							name='checkbox' id="mp" onclick='setBoost(this);'>
+					</label></td>
+					<td><label>OFF<br /> <input type='checkbox'
+							name='checkbox' id="off" onclick='setBoost(this);'>
+					</label></td>
+					<td><label>DEF<br /> <input type='checkbox'
+							name='checkbox' id="def" onclick='setBoost(this);'>
+					</label></td>
+					<td><label>SPD<br /> <input type='checkbox'
+							name='checkbox' id="spd" onclick='setBoost(this);'>
+					</label></td>
+				</tr>
+			</table>
+		</div>
 		<div>
 			<p>
 				Did you recruit Kuwaga- and Kabuterimon? <br />Is the
@@ -72,12 +74,12 @@
 			</p>
 		</div>
 		<table>
-			<tr>
+			<tr id="kuwagaTraining">
 				<td>Kuwagamon</td>
 				<td><input type='checkbox' name='checkbox' id="kuwaga"
 					onclick='setBoost(this);'></td>
 			</tr>
-			<tr>
+			<tr id="kabuteriTraining">
 				<td>Kabuterimon</td>
 				<td><input type='checkbox' name='checkbox' id="kabuteri"
 					onclick='setBoost(this);'></td>
