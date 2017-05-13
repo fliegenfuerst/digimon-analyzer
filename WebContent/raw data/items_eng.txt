@@ -1,0 +1,384 @@
+0
+sm.recovery
+Small Recovery: +500 HP
+1
+med.recovery
+Medium Recovery: +1500 HP
+2
+lrg.recovery
+Large Recovery: +5000 HP
+3
+sup.recovery
+Super Recovery: full HP
+4
+MP Floppy
+Recover +500 Magic Points
+5
+Medium MP
+Med. MP: recover +1500 MP
+6
+Large MP
+Lrg. MP: recover +5000 MP
+7
+Double flop
+Recovers +1500 MP and HP
+8
+Various
+Cures Status Errors
+9
+Omnipotent
+Cures errors + rec. HP+MP
+10
+Protection
+Protects yr cond. in battle
+11
+Restore
+Cures Coma + rec. half HP
+12
+Sup.restore
+Cures coma, errors +full HP
+13
+Bandage
+Cures wounds + some sickness
+14
+Medicine
+Cures wounds + sickness
+15
+Off. Disk
+Boost Off. Power in battle
+16
+Def. Disk
+Boost Def. Power in battle
+17
+Hispeed dsk
+Boost Speed in battle
+18
+Omni Disk
+Boost all skills in battle
+19
+S.Off.disk
+Super boost off. pwr in bat.
+20
+S.Def.disk
+Super boost def. pwr in bat.
+21
+S.speed.disk
+Super boost Speed in battle
+22
+Auto Pilot
+Can return to city quickly
+23
+Off. Chip
+Boost max off. pwr level +50
+24
+Def. Chip
+Boost max def. pwr level +50
+25
+Brain Chip
+Boost max Brains level +50
+26
+Quick Chip
+Boost max Speed level +50
+27
+HP Chip
+Boost max HP level +500
+28
+MP Chip
+Boost max MP level +500
+29
+DV Chip A
+Boost Off. Pwr+Brains +100
+30
+DV Chip D
+Boost Def. Pwr+Speed +100
+31
+DV Chip E
+Boost Off. Pwr+Speed +1000
+32
+Port. potty
+Can do potty anywhere
+33
+Trn. manual
+Train better with this
+34
+Rest pillow
+More recovery during rest
+35
+Enemy repel
+Repels enemies to stay away
+36
+Enemy bell
+Attract enemies to come
+37
+Health shoe
+Walk and HP + MP go up
+38
+Meat
+Makes Digimon a bit full
+39
+Giant Meat
+Makes Digimon quite full .
+40
+Sirloin
+Makes Digimon very full.
+41
+Supercarrot
+Boosts training effect
+42
+Hawk radish
+Boosts training effect
+43
+Spiny green
+Greatly reduces Tiredness
+44
+Digimushrm
+Make Digimon a bit full
+45
+Ice mushrm
+Greatly boosts Discipline
+46
+Deluxmushrm
+Boosts all abilities
+47
+Digipine
+Boosts training effect
+48
+Blue apple
+Makes Digimon happy
+49
+Red Berry
+Gives rest, boost disc.+hap
+50
+Gold Acorn
+Can be sold for a high price
+51
+Big Berry
+Makes full + boosts Weight!
+52
+Sweet Nut
+Recovers HP completely!
+53
+Super veggy
+Recovers MP completely!
+54
+Pricklypear
+Lowers Weight!
+55
+Orange bana
+Fully recovers HP and MP
+56
+Power fruit
+Boost Offensive Power +20!
+57
+Power Ice
+Boost Defensive Power +20!
+58
+Speed Leaf
+Boost Speed +20!
+59
+Sage Fruit
+Boost Brains +20!
+60
+Muscle Yam
+Boost HP by +200!
+61
+Calm berry
+Boost MP by +200!
+62
+Digianchovy
+Makes Digimon a bit full.
+63
+Digisnapper
+Makes Digimon quite full.
+64
+DigiTrout
+Makes Digimon very full.
+65
+Black trout
+Boosts all abilities
+66
+Digicatfish
+Makes Digimon very full
+67
+Digiseabass
+Full HP and MP + life span++
+68
+Moldy Meat
+Makes Digimon somewhat full
+69
+Happymushrm
+Boost Happiness, but risky
+70
+Chain melon
+Good for many things
+71
+Grey Claws
+Digivolve to Greymon!
+72
+Fireball
+Digivolve to Meramon!
+73
+Flamingwing
+Digivolve to Birdramon!
+74
+Iron Hoof
+Digivolve to Centarumon!
+75
+Mono Stone
+Digivolve to Monochromon!
+76
+Steel drill
+Digivolve to Drimogemon!
+77
+White Fang
+Digivolve to Tyrannomon!
+78
+Black Wing
+Digivolve to Devimon!
+79
+Spike Club
+Digivolve to Ogremon!
+80
+Flamingmane
+Digivolve to Leomon!
+81
+White Wing
+Digivolve to Angemon!
+82
+Torn tatter
+Digivolve to Bakemon!
+83
+Electo ring
+Digivolve to Kaminarimon!
+84
+Rainbowhorn
+Digivolve to Airdramon!
+85
+Rooster
+Digivolve to Kokatorimon
+86
+Unihorn
+Digivolve to Unimon!
+87
+Horn helmet
+Digivolve to Kabuterimon!
+88
+Scissor jaw
+Digivolve to Kuwagamon!
+89
+Fertilizer
+Digivolve to Vegiemon!
+90
+Koga laws
+Digivolve to Ninjamon!
+91
+Waterbottle
+Digivolve to Seadramon!
+92
+North Star
+Digivolve to Whamon!
+93
+Red Shell
+Digivolve to Shellmon!
+94
+Hard Scale
+Digivolve to Coelamon!
+95
+Bluecrystal
+Digivolve to Garurumon!
+96
+Ice crystal
+Digivolve to Frigimon!
+97
+Hair grower
+Digivolve to Mojyamon!
+98
+Sunglasses
+Digivolve to Nanimon!
+99
+Metal part
+Digivolve to MetalGreymon!
+100
+Fatal Bone
+Digivolve to SkullGreymon!
+101
+Cyber part
+Digivolve to Andromon!
+102
+Mega Hand
+Digivolve to Megadramon!
+103
+Silver ball
+Digivolve to Mamemon!
+104
+Metal armor
+Digivolve to MetalMamemon!
+105
+Chainsaw
+Digivolve to Giromon!
+106
+Small spear
+Digivolve to Piximon!
+107
+X Bandage
+Digivolve to Monzaemon!
+108
+Ray Gun
+Digivolve to Vademon!
+109
+Gold banana
+Digivolve to Etemon!
+110
+Mysty Egg
+Digivolve to Digitamamon!
+111
+Red Ruby
+Digivolve to Phoenixmon!
+112
+Beetlepearl
+Become HerculesKabuterimon!
+113
+Coral charm
+Digivolve to MegaSeadramon!
+114
+Moon mirror
+Digivolve to WereGarurumon!
+115
+Blue Flute
+Seadramon friendship proof
+116
+old fishrod
+Enables you to fish at lake
+117
+Amazing rod
+Gives good fishing at lake
+118
+Leomonstone
+Stone Tablet of Leomon
+119
+Mansion key
+Key to Gray Lord Mansion
+120
+Gear
+Mystery Item
+121
+Rain Plant
+Recover 1000 MP +other uses
+122
+Steak
+Makes Digimon very full
+123
+Frig Key
+Key to open Refrigerator
+124
+AS Decoder
+You can read Ancient Script
+125
+Giga Hand
+Digivolve to Gigadramon!
+126
+Noble Mane
+Digivolve to Panjyamon!
+127
+Metalbanana
+Digivolve to MetalEtemon!

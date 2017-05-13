@@ -1,0 +1,384 @@
+0
+kl. Heildisk
+füllt LE um 500 auf.
+1
+mi. Heildisk
+füllt LE um 1500 auf.
+2
+gr. Heildisk
+füllt LE um 5000 auf.
+3
+Su.-Heildisk
+füllt volle LE auf.
+4
+MP-Disk
+füllt 500 MP auf.
+5
+mi. MP-Disk
+füllt 1500 MP auf.
+6
+gr. MP-Disk
+füllt 5000 MP auf.
+7
+Do.-disk
+füllt MP + LE um 1500 auf.
+8
+Vari-Disk
+heilt Gift,Lähm.,
+9
+Omni-Disk
+heilt anom.Zust.,füllt
+10
+Schutzdisk
+verh. Zustandsverschl. im
+11
+Weckdisk
+heilt Atemnot,füllt mind.1/2
+12
+Aloedisk
+heilt anom.Zustände + Atemnot.
+13
+Verband
+heilt Wunden + best.
+14
+Medizin
+heilt Wunden und Krankheiten.
+15
+Kraftdisk
+stärkt den Angriff im Kampf.
+16
+Abwehrdisk
+erhöht die Abwehr im Kampf.
+17
+Tempodisk
+erhöht das Tempo im Kampf.
+18
+Dopingdisk
+erhöht alle Werte im Kampf.
+19
+Super-Kraft
+stärkt Angriff im Kampf sehr.
+20
+Su.-Abwehr
+erhöht Abwehr im Kampf sehr.
+21
+Turbodisk
+erhöht Tempo im Kampf sehr.
+22
+Autopilot
+blitzschnelle Rückkehr in die
+23
+Kraftchip
+erhöht Angriff dauerhaft um
+24
+Abwehrchip
+erhöht Abwehr dauerhaft um
+25
+IQ-Chip
+erhöht Intelligenz dauerhaft
+26
+Tempochip
+erhöht Tempo dauerhaft um
+27
+LE-Chip
+erhöht max. LE dauerhaft um
+28
+MP-Chip
+erhöht max. MP dauerhaft um
+29
+Devi-Chip A
+Angriff + Intelligenz +100,
+30
+Devi-Chip D
+Abwehr + Tempo +100, aber…
+31
+Devi-Chip E
+MP + LE dauerhaft +1000, aber…
+32
+Camping-WC
+Kann auch ben. werden,
+33
+Trainingsplan
+erhöht Wirksamkeit des Tr.
+34
+Ruhekissen
+bessere Erholung im Schlaf.
+35
+Socken
+hält Gegner fern.
+36
+Glocke
+lockt Gegner an.
+37
+Reha-Treter
+MP+LE werden beim Gehen(nicht
+38
+Fleisch
+Nahrung. Sättigt Digimon etwas.
+39
+Hüftsteak
+Nahrung. Sättigt Digimon.
+40
+Filet
+Sättigt Digimon sehr.
+41
+Supermöhre
+Nahrung.
+42
+Adlerrettich
+Trainingswirkung Nahrung.
+43
+Stachelkraut
+Nahrung.
+44
+Digipilz
+Nahrung. Sättigt Digimon etwas.
+45
+Frostpilz
+Nahrung. Erhöht Disziplin sehr.
+46
+Superpilz
+Nahrung. Stärkt alle Talente.
+47
+Digi-Kiefer
+Nahrung. Trainingswirkung
+48
+Blauapfel
+Nahrung. Macht Digimon.
+49
+Rotbeere
+Nahrung. Verr. Müdigkeit,
+50
+Goldeichel
+Nahrung. Kann teuer verkauft
+51
+Riesenbeere
+Nahrung. Sättigt Dig., erhöht
+52
+Süßholz
+Nahrung. Füllt gesamte LE auf!
+53
+Supergemüse
+Nahrung. Füllt sämtl. MP auf!
+54
+Kaktusfeige
+Nahrung. Senkt das Gewicht!
+55
+Banane
+Nahrung. Füllt ges. LE + MP
+56
+Kraftfrucht
+Nahrung. Angriff +20!
+57
+Eisriegel
+Nahrung. Abwehr +20!
+58
+Sprintblatt
+Nahrung. Tempo +20!
+59
+Frucht der W
+Nahrung. Intelligenz +20!
+60
+Muskelknolle
+Nahrung. LE +200!
+61
+Friedensfruch
+Nahrung. MP +200!
+62
+Digisardelle
+Nahrung. Sättigt Digimon etwas.
+63
+Digihering
+Nahrung. Sättigt Digimon.
+64
+Digiforelle
+Nahrung. Sättigt Digimon sehr.
+65
+Blauforelle
+Nahrung. Stärkt alle Talente.
+66
+Digibarbe
+Nahrung. Sättigt Digimon sehr.
+67
+Digibarsch
+Nahrung. Füllt ges. LE + MP
+68
+Gammelfl
+Nahrung. Sättigt Digimon etwas.
+69
+Glückspilz
+Nahrung. Erhöht Glück, n. ohne
+70
+Kettenmelone
+Nahrung. Für vieles gut!
+71
+Grautatze
+Digimon digitiert zu Greymon!
+72
+Feuerball
+Digimon digitiert zu Meramon!
+73
+Brandschw
+Digimon digitiert zu Birdramon!
+74
+Eisenhuf
+Digimon digitiert zu
+75
+Mono-Stein
+Digimon digitiert zu
+76
+Stahlbohrer
+Digimon digitiert zu
+77
+Reißzahn
+Digimon digitiert zu
+78
+Nachtschw
+Digimon digitiert zu Devimon!
+79
+Stachelkeule
+Digimon digitiert zu Ogremon!
+80
+Feuermähne
+Digimon digitiert zu Leomon!
+81
+Engelsschw
+Digimon digitiert zu Angemon!
+82
+Fetzen
+Digimon digitiert zu Bakemon!
+83
+Elektroring
+Digimon digitiert zu
+84
+Bunthorn
+Digimon digitiert zu Airdramon!
+85
+Hahn
+Digimon digitiert zu
+86
+Uni-Horn
+Digimon digitiert zu Unimon!
+87
+Spitzhelm
+Digimon digitiert zu
+88
+Scherenkief
+Digimon digitiert zu Kuwagamon!
+89
+Dünger
+Digimon digitiert zu Vegiemon!
+90
+Kogas Gesetz
+Digimon digitiert zu Ninjamon!
+91
+Wasserfl
+Digimon digitiert zu Seadramon!
+92
+Nordstern
+Digimon digitiert zu Whamon!
+93
+Rotmuschel
+Digimon digitiert zu Shellmon!
+94
+Schuppe
+Digimon digitiert zu Coelamon!
+95
+Bl. Kristal
+Digimon digitiert zu Garurumon!
+96
+Eiskristall
+Digimon digitiert zu Frigimon!
+97
+Haarwuchsm
+Digimon digitiert zu Mojyamon!
+98
+Sonnenbrille
+Digimon digitiert zu Nanimon!
+99
+Metallstück
+Digimon digitiert zu
+100
+Schädelkn
+Digimon digitiert zu
+101
+Cyberteil
+Digimon digitiert zu Andromon!
+102
+Megahand
+Digimon digitiert zu
+103
+Silberkugel
+Digimon digitiert zu Mamemon!
+104
+Metallrüstg
+Digimon digitiert zu
+105
+Kettensäge
+Digimon digitiert zu Giromon!
+106
+Minispeer
+Digimon digitiert zu Piximon!
+107
+X-Verband
+Digimon digitiert zu Monzaemon!
+108
+Strahlengew
+Digimon digitiert zu Vademon!
+109
+Goldbanane
+Digimon digitiert zu Etemon!
+110
+Zauber-Ei
+Dig. digitiert zu Digitamamon!
+111
+Blutrubin
+Digimon digitiert zu
+112
+Chitinperle
+Dig. digitiert zu
+113
+Koralle
+digitiert zu MegaSeadramon!
+114
+Mondspiegel
+Dig. digitiert zu
+115
+Blaue Flöte
+bel. Freundschaft zu Seadramon.
+116
+Alte Angelrut
+damit kann man im See angeln!
+117
+Wunderrute
+sorgt für einen guten Fang im
+118
+Leomon-St
+Steintafel von Leomons
+119
+Villenschl
+für die Schattenvilla.
+120
+Zahnrad
+???
+121
+Regenfrucht
+Nahrung. Füllt 1000 MP
+122
+Steak
+Sättigt Digimon sehr.
+123
+Kühlschranksc
+öffnet einen Kühlschrank.
+124
+AS-Dekoder
+alte Schrift lässt sich lesen!
+125
+Gigahand
+Digimon digitiert zu
+126
+Edelmähne
+Digimon digitiert zu
+127
+Metallbanane
+Digimon digitiert zuMetalEtemon!

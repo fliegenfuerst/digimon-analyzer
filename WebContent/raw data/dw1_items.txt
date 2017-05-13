@@ -1,0 +1,1153 @@
+//GAME NAME:		Digimon World (PS1)
+
+//BLOCK #000 NAME:		Items
+
+//POINTER #0 @ $A08CC - STRING #0 @ $9D240
+
+kl. Heildisk<LINE>
+//POINTER #1 @ $A08D0 - STRING #1 @ $9D25C
+
+mi. Heildisk<LINE>
+//POINTER #2 @ $A08D4 - STRING #2 @ $9D278
+
+gr. Heildisk<LINE>
+//POINTER #3 @ $A08D8 - STRING #3 @ $9D294
+
+Su.-Heildisk<LINE>
+//POINTER #4 @ $A08DC - STRING #4 @ $9D2B0
+
+MP-Disk<LINE>
+//POINTER #5 @ $A08E0 - STRING #5 @ $9D2C0
+
+mi. MP-Disk<LINE>
+//POINTER #6 @ $A08E4 - STRING #6 @ $9D2D8
+
+gr. MP-Disk<LINE>
+//POINTER #7 @ $A08E8 - STRING #7 @ $9D2F0
+
+Do.-disk<LINE>
+//POINTER #8 @ $A08EC - STRING #8 @ $9D304
+
+Vari-Disk<LINE>
+//POINTER #9 @ $A08F0 - STRING #9 @ $9D318
+
+Omni-Disk<LINE>
+//POINTER #10 @ $A08F4 - STRING #10 @ $9D32C
+
+Schutzdisk<LINE>
+//POINTER #11 @ $A08F8 - STRING #11 @ $9D344
+
+Weckdisk<LINE>
+//POINTER #12 @ $A08FC - STRING #12 @ $9D358
+
+Aloedisk<LINE>
+//POINTER #13 @ $A0900 - STRING #13 @ $9D36C
+
+Verband<LINE>
+//POINTER #14 @ $A0904 - STRING #14 @ $9D37C
+
+Medizin<LINE>
+//POINTER #15 @ $A0908 - STRING #15 @ $9D38C
+
+Kraftdisk<LINE>
+//POINTER #16 @ $A090C - STRING #16 @ $9D3A0
+
+Abwehrdisk<LINE>
+//POINTER #17 @ $A0910 - STRING #17 @ $9D3B8
+
+Tempodisk<LINE>
+//POINTER #18 @ $A0914 - STRING #18 @ $9D3CC
+
+Dopingdisk<LINE>
+//POINTER #19 @ $A0918 - STRING #19 @ $9D3E4
+
+Super-Kraft<LINE>
+//POINTER #20 @ $A091C - STRING #20 @ $9D3FC
+
+Su.-Abwehr<LINE>
+//POINTER #21 @ $A0920 - STRING #21 @ $9D414
+
+Turbodisk<LINE>
+//POINTER #22 @ $A0924 - STRING #22 @ $9D428
+
+Autopilot<LINE>
+//POINTER #23 @ $A0928 - STRING #23 @ $9D43C
+
+Kraftchip<LINE>
+//POINTER #24 @ $A092C - STRING #24 @ $9D450
+
+Abwehrchip<LINE>
+//POINTER #25 @ $A0930 - STRING #25 @ $9D468
+
+IQ-Chip<LINE>
+//POINTER #26 @ $A0934 - STRING #26 @ $9D478
+
+Tempochip<LINE>
+//POINTER #27 @ $A0938 - STRING #27 @ $9D48C
+
+LE-Chip<LINE>
+//POINTER #28 @ $A093C - STRING #28 @ $9D49C
+
+MP-Chip<LINE>
+//POINTER #29 @ $A0940 - STRING #29 @ $9D4AC
+
+Devi-Chip A<LINE>
+//POINTER #30 @ $A0944 - STRING #30 @ $9D4C4
+
+Devi-Chip D<LINE>
+//POINTER #31 @ $A0948 - STRING #31 @ $9D4DC
+
+Devi-Chip E<LINE>
+//POINTER #32 @ $A094C - STRING #32 @ $9D4F4
+
+Camping-WC<LINE>
+//POINTER #33 @ $A0950 - STRING #33 @ $9D50C
+
+Trainingsplan<LINE>
+//POINTER #34 @ $A0954 - STRING #34 @ $9D528
+
+Ruhekissen<LINE>
+//POINTER #35 @ $A0958 - STRING #35 @ $9D540
+
+Socken<LINE>
+//POINTER #36 @ $A095C - STRING #36 @ $9D550
+
+Glocke<LINE>
+//POINTER #37 @ $A0960 - STRING #37 @ $9D560
+
+Reha-Treter<LINE>
+//POINTER #38 @ $A0964 - STRING #38 @ $9D578
+
+Fleisch<LINE>
+//POINTER #39 @ $A0968 - STRING #39 @ $9D588
+
+Hüftsteak<LINE>
+//POINTER #40 @ $A096C - STRING #40 @ $9D59C
+
+Filet<LINE>
+//POINTER #41 @ $A0970 - STRING #41 @ $9D5A8
+
+Supermöhre<LINE>
+//POINTER #42 @ $A0974 - STRING #42 @ $9D5C0
+
+Adlerrettich<LINE>
+//POINTER #43 @ $A0978 - STRING #43 @ $9D5DC
+
+Stachelkraut<LINE>
+//POINTER #44 @ $A097C - STRING #44 @ $9D5F8
+
+Digipilz<LINE>
+//POINTER #45 @ $A0980 - STRING #45 @ $9D60C
+
+Frostpilz<LINE>
+//POINTER #46 @ $A0984 - STRING #46 @ $9D620
+
+Superpilz<LINE>
+//POINTER #47 @ $A0988 - STRING #47 @ $9D634
+
+Digi-Kiefer<LINE>
+//POINTER #48 @ $A098C - STRING #48 @ $9D64C
+
+Blauapfel<LINE>
+//POINTER #49 @ $A0990 - STRING #49 @ $9D660
+
+Rotbeere<LINE>
+//POINTER #50 @ $A0994 - STRING #50 @ $9D674
+
+Goldeichel<LINE>
+//POINTER #51 @ $A0998 - STRING #51 @ $9D68C
+
+Riesenbeere<LINE>
+//POINTER #52 @ $A099C - STRING #52 @ $9D6A4
+
+Süßholz<LINE>
+//POINTER #53 @ $A09A0 - STRING #53 @ $9D6B4
+
+Supergemüse<LINE>
+//POINTER #54 @ $A09A4 - STRING #54 @ $9D6CC
+
+Kaktusfeige<LINE>
+//POINTER #55 @ $A09A8 - STRING #55 @ $9D6E4
+
+Banane<LINE>
+//POINTER #56 @ $A09AC - STRING #56 @ $9D6F4
+
+Kraftfrucht<LINE>
+//POINTER #57 @ $A09B0 - STRING #57 @ $9D70C
+
+Eisriegel<LINE>
+//POINTER #58 @ $A09B4 - STRING #58 @ $9D720
+
+Sprintblatt<LINE>
+//POINTER #59 @ $A09B8 - STRING #59 @ $9D738
+
+Frucht der W<LINE>
+//POINTER #60 @ $A09BC - STRING #60 @ $9D754
+
+Muskelknolle<LINE>
+//POINTER #61 @ $A09C0 - STRING #61 @ $9D770
+
+Friedensfruch<LINE>
+//POINTER #62 @ $A09C4 - STRING #62 @ $9D78C
+
+Digisardelle<LINE>
+//POINTER #63 @ $A09C8 - STRING #63 @ $9D7A8
+
+Digihering<LINE>
+//POINTER #64 @ $A09CC - STRING #64 @ $9D7C0
+
+Digiforelle<LINE>
+//POINTER #65 @ $A09D0 - STRING #65 @ $9D7D8
+
+Blauforelle<LINE>
+//POINTER #66 @ $A09D4 - STRING #66 @ $9D7F0
+
+Digibarbe<LINE>
+//POINTER #67 @ $A09D8 - STRING #67 @ $9D804
+
+Digibarsch<LINE>
+//POINTER #68 @ $A09DC - STRING #68 @ $9D81C
+
+Gammelfl<LINE>
+//POINTER #69 @ $A09E0 - STRING #69 @ $9D830
+
+Glückspilz<LINE>
+//POINTER #70 @ $A09E4 - STRING #70 @ $9D848
+
+Kettenmelone<LINE>
+//POINTER #71 @ $A09E8 - STRING #71 @ $9D864
+
+Grautatze<LINE>
+//POINTER #72 @ $A09EC - STRING #72 @ $9CC4C
+
+Feuerball<LINE>
+//POINTER #73 @ $A09F0 - STRING #73 @ $9D878
+
+Brandschw<LINE>
+//POINTER #74 @ $A09F4 - STRING #74 @ $9D88C
+
+Eisenhuf<LINE>
+//POINTER #75 @ $A09F8 - STRING #75 @ $9D8A0
+
+Mono-Stein<LINE>
+//POINTER #76 @ $A09FC - STRING #76 @ $9D8B8
+
+Stahlbohrer<LINE>
+//POINTER #77 @ $A0A00 - STRING #77 @ $9D8D0
+
+Reißzahn<LINE>
+//POINTER #78 @ $A0A04 - STRING #78 @ $9D8E4
+
+Nachtschw<LINE>
+//POINTER #79 @ $A0A08 - STRING #79 @ $9D8F8
+
+Stachelkeule<LINE>
+//POINTER #80 @ $A0A0C - STRING #80 @ $9D914
+
+Feuermähne<LINE>
+//POINTER #81 @ $A0A10 - STRING #81 @ $9D92C
+
+Engelsschw<LINE>
+//POINTER #82 @ $A0A14 - STRING #82 @ $9D944
+
+Fetzen<LINE>
+//POINTER #83 @ $A0A18 - STRING #83 @ $9D954
+
+Elektroring<LINE>
+//POINTER #84 @ $A0A1C - STRING #84 @ $9D96C
+
+Bunthorn<LINE>
+//POINTER #85 @ $A0A20 - STRING #85 @ $9D980
+
+Hahn<LINE>
+//POINTER #86 @ $A0A24 - STRING #86 @ $9D98C
+
+Uni-Horn<LINE>
+//POINTER #87 @ $A0A28 - STRING #87 @ $9D9A0
+
+Spitzhelm<LINE>
+//POINTER #88 @ $A0A2C - STRING #88 @ $9D9B4
+
+Scherenkief<LINE>
+//POINTER #89 @ $A0A30 - STRING #89 @ $9D9CC
+
+Dünger<LINE>
+//POINTER #90 @ $A0A34 - STRING #90 @ $9D9DC
+
+Kogas Gesetz<LINE>
+//POINTER #91 @ $A0A38 - STRING #91 @ $9D9F8
+
+Wasserfl<LINE>
+//POINTER #92 @ $A0A3C - STRING #92 @ $9DA0C
+
+Nordstern<LINE>
+//POINTER #93 @ $A0A40 - STRING #93 @ $9DA20
+
+Rotmuschel<LINE>
+//POINTER #94 @ $A0A44 - STRING #94 @ $9DA38
+
+Schuppe<LINE>
+//POINTER #95 @ $A0A48 - STRING #95 @ $9DA48
+
+Bl. Kristal<LINE>
+//POINTER #96 @ $A0A4C - STRING #96 @ $9DA60
+
+Eiskristall<LINE>
+//POINTER #97 @ $A0A50 - STRING #97 @ $9DA78
+
+Haarwuchsm<LINE>
+//POINTER #98 @ $A0A54 - STRING #98 @ $9DA90
+
+Sonnenbrille<LINE>
+//POINTER #99 @ $A0A58 - STRING #99 @ $9DAAC
+
+Metallstück<LINE>
+//POINTER #100 @ $A0A5C - STRING #100 @ $9DAC4
+
+Schädelkn<LINE>
+//POINTER #101 @ $A0A60 - STRING #101 @ $9DAD8
+
+Cyberteil<LINE>
+//POINTER #102 @ $A0A64 - STRING #102 @ $9DAEC
+
+Megahand<LINE>
+//POINTER #103 @ $A0A68 - STRING #103 @ $9DB00
+
+Silberkugel<LINE>
+//POINTER #104 @ $A0A6C - STRING #104 @ $9DB18
+
+Metallrüstg<LINE>
+//POINTER #105 @ $A0A70 - STRING #105 @ $9DB30
+
+Kettensäge<LINE>
+//POINTER #106 @ $A0A74 - STRING #106 @ $9DB48
+
+Minispeer<LINE>
+//POINTER #107 @ $A0A78 - STRING #107 @ $9DB5C
+
+X-Verband<LINE>
+//POINTER #108 @ $A0A7C - STRING #108 @ $9DB70
+
+Strahlengew<LINE>
+//POINTER #109 @ $A0A80 - STRING #109 @ $9DB88
+
+Goldbanane<LINE>
+//POINTER #110 @ $A0A84 - STRING #110 @ $9DBA0
+
+Zauber-Ei<LINE>
+//POINTER #111 @ $A0A88 - STRING #111 @ $9DBB4
+
+Blutrubin<LINE>
+//POINTER #112 @ $A0A8C - STRING #112 @ $9DBC8
+
+Chitinperle<LINE>
+//POINTER #113 @ $A0A90 - STRING #113 @ $9DBE0
+
+Koralle<LINE>
+//POINTER #114 @ $A0A94 - STRING #114 @ $9DBF0
+
+Mondspiegel<LINE>
+//POINTER #115 @ $A0A98 - STRING #115 @ $9DC08
+
+Blaue Flöte<LINE>
+//POINTER #116 @ $A0A9C - STRING #116 @ $9DC20
+
+Alte Angelrut<LINE>
+//POINTER #117 @ $A0AA0 - STRING #117 @ $9DC3C
+
+Wunderrute<LINE>
+//POINTER #118 @ $A0AA4 - STRING #118 @ $9DC54
+
+Leomon-St<LINE>
+//POINTER #119 @ $A0AA8 - STRING #119 @ $9DC68
+
+Villenschl<LINE>
+//POINTER #120 @ $A0AAC - STRING #120 @ $9DC80
+
+Zahnrad<LINE>
+//POINTER #121 @ $A0AB0 - STRING #121 @ $9DC90
+
+Regenfrucht<LINE>
+//POINTER #122 @ $A0AB4 - STRING #122 @ $9DCA8
+
+Steak<LINE>
+//POINTER #123 @ $A0AB8 - STRING #123 @ $9DCB4
+
+Kühlschranksc<LINE>
+//POINTER #124 @ $A0ABC - STRING #124 @ $9DCD0
+
+AS-Dekoder<LINE>
+//POINTER #125 @ $A0AC0 - STRING #125 @ $9DCE8
+
+Gigahand<LINE>
+//POINTER #126 @ $A0AC4 - STRING #126 @ $9DCFC
+
+Edelmähne<LINE>
+//POINTER #127 @ $A0AC8 - STRING #127 @ $9DD10
+
+Metallbanane<LINE>
+//POINTER #128 @ $A0ACC - STRING #128 @ $9DD2C
+
+füllt LE um 500 auf.<LINE>
+//POINTER #129 @ $A0AD0 - STRING #129 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #130 @ $A0AD4 - STRING #130 @ $9DD58
+
+füllt LE um 1500 auf.<LINE>
+//POINTER #131 @ $A0AD8 - STRING #131 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #132 @ $A0ADC - STRING #132 @ $9DD84
+
+füllt LE um 5000 auf.<LINE>
+//POINTER #133 @ $A0AE0 - STRING #133 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #134 @ $A0AE4 - STRING #134 @ $9DDB0
+
+füllt volle LE auf.<LINE>
+//POINTER #135 @ $A0AE8 - STRING #135 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #136 @ $A0AEC - STRING #136 @ $9DDD8
+
+füllt 500 MP auf.<LINE>
+//POINTER #137 @ $A0AF0 - STRING #137 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #138 @ $A0AF4 - STRING #138 @ $9DDFC
+
+füllt 1500 MP auf.<LINE>
+//POINTER #139 @ $A0AF8 - STRING #139 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #140 @ $A0AFC - STRING #140 @ $9DE24
+
+füllt 5000 MP auf.<LINE>
+//POINTER #141 @ $A0B00 - STRING #141 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #142 @ $A0B04 - STRING #142 @ $9DE4C
+
+füllt MP + LE um 1500 auf.<LINE>
+//POINTER #143 @ $A0B08 - STRING #143 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #144 @ $A0B0C - STRING #144 @ $9DE84
+
+heilt Gift,Lähm.,<LINE>
+//POINTER #145 @ $A0B10 - STRING #145 @ $9DEA8
+
+Verw.+ Kristall.<LINE>
+//POINTER #146 @ $A0B14 - STRING #146 @ $9DECC
+
+heilt anom.Zust.,füllt<LINE>
+//POINTER #147 @ $A0B18 - STRING #147 @ $9DEFC
+
+MP + LE auf.<LINE>
+//POINTER #148 @ $A0B1C - STRING #148 @ $9DF18
+
+verh. Zustandsverschl. im<LINE>
+//POINTER #149 @ $A0B20 - STRING #149 @ $9DF4C
+
+Kampf.<LINE>
+//POINTER #150 @ $A0B24 - STRING #150 @ $9DF5C
+
+heilt Atemnot,füllt mind.1<$81><$5E>2<LINE>
+//POINTER #151 @ $A0B28 - STRING #151 @ $9DF98
+
+LE auf.<LINE>
+//POINTER #152 @ $A0B2C - STRING #152 @ $9DFA8
+
+heilt anom.Zustände + Atemnot.<LINE>
+//POINTER #153 @ $A0B30 - STRING #153 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #154 @ $A0B34 - STRING #154 @ $9DFE8
+
+heilt Wunden + best.<LINE>
+//POINTER #155 @ $A0B38 - STRING #155 @ $9E014
+
+Krankheiten.<LINE>
+//POINTER #156 @ $A0B3C - STRING #156 @ $9E030
+
+heilt Wunden und Krankheiten.<LINE>
+//POINTER #157 @ $A0B40 - STRING #157 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #158 @ $A0B44 - STRING #158 @ $9E06C
+
+stärkt den Angriff im Kampf.<LINE>
+//POINTER #159 @ $A0B48 - STRING #159 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #160 @ $A0B4C - STRING #160 @ $9E0A8
+
+erhöht die Abwehr im Kampf.<LINE>
+//POINTER #161 @ $A0B50 - STRING #161 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #162 @ $A0B54 - STRING #162 @ $9E0E0
+
+erhöht das Tempo im Kampf.<LINE>
+//POINTER #163 @ $A0B58 - STRING #163 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #164 @ $A0B5C - STRING #164 @ $9E118
+
+erhöht alle Werte im Kampf.<LINE>
+//POINTER #165 @ $A0B60 - STRING #165 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #166 @ $A0B64 - STRING #166 @ $9E150
+
+stärkt Angriff im Kampf sehr.<LINE>
+//POINTER #167 @ $A0B68 - STRING #167 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #168 @ $A0B6C - STRING #168 @ $9E18C
+
+erhöht Abwehr im Kampf sehr.<LINE>
+//POINTER #169 @ $A0B70 - STRING #169 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #170 @ $A0B74 - STRING #170 @ $9E1C8
+
+erhöht Tempo im Kampf sehr.<LINE>
+//POINTER #171 @ $A0B78 - STRING #171 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #172 @ $A0B7C - STRING #172 @ $9E200
+
+blitzschnelle Rückkehr in die<LINE>
+//POINTER #173 @ $A0B80 - STRING #173 @ $9E23C
+
+Stadt.<LINE>
+//POINTER #174 @ $A0B84 - STRING #174 @ $9E24C
+
+erhöht Angriff dauerhaft um<LINE>
+//POINTER #175 @ $A0B88 - STRING #175 @ $9B5C8
+
+isterschaften gew.<LINE>
+//POINTER #176 @ $A0B8C - STRING #176 @ $9E284
+
+erhöht Abwehr dauerhaft um<LINE>
+//POINTER #177 @ $A0B90 - STRING #177 @ $9B5C8
+
+isterschaften gew.<LINE>
+//POINTER #178 @ $A0B94 - STRING #178 @ $9E2BC
+
+erhöht Intelligenz dauerhaft<LINE>
+//POINTER #179 @ $A0B98 - STRING #179 @ $9E2F8
+
+um 50.<LINE>
+//POINTER #180 @ $A0B9C - STRING #180 @ $9E308
+
+erhöht Tempo dauerhaft um<LINE>
+//POINTER #181 @ $A0BA0 - STRING #181 @ $9B5C8
+
+isterschaften gew.<LINE>
+//POINTER #182 @ $A0BA4 - STRING #182 @ $9E33C
+
+erhöht max. LE dauerhaft um<LINE>
+//POINTER #183 @ $A0BA8 - STRING #183 @ $9E374
+
+500.<LINE>
+//POINTER #184 @ $A0BAC - STRING #184 @ $9E380
+
+erhöht max. MP dauerhaft um<LINE>
+//POINTER #185 @ $A0BB0 - STRING #185 @ $9E374
+
+500.<LINE>
+//POINTER #186 @ $A0BB4 - STRING #186 @ $9E3B8
+
+Angriff + Intelligenz +100,<LINE>
+//POINTER #187 @ $A0BB8 - STRING #187 @ $9E3F0
+
+aber<$81><$63><LINE>
+//POINTER #188 @ $A0BBC - STRING #188 @ $9E3FC
+
+Abwehr + Tempo +100, aber<$81><$63><LINE>
+//POINTER #189 @ $A0BC0 - STRING #189 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #190 @ $A0BC4 - STRING #190 @ $9E434
+
+MP + LE dauerhaft +1000, aber<$81><$63><LINE>
+//POINTER #191 @ $A0BC8 - STRING #191 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #192 @ $A0BCC - STRING #192 @ $9E474
+
+Kann auch ben. werden,<LINE>
+//POINTER #193 @ $A0BD0 - STRING #193 @ $9E4A4
+
+wo es k. Toilette gibt.<LINE>
+//POINTER #194 @ $A0BD4 - STRING #194 @ $9E4D4
+
+erhöht Wirksamkeit des Tr.<LINE>
+//POINTER #195 @ $A0BD8 - STRING #195 @ $9E50C
+
+autom.<LINE>
+//POINTER #196 @ $A0BDC - STRING #196 @ $9E51C
+
+bessere Erholung im Schlaf.<LINE>
+//POINTER #197 @ $A0BE0 - STRING #197 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #198 @ $A0BE4 - STRING #198 @ $9E554
+
+hält Gegner fern.<LINE>
+//POINTER #199 @ $A0BE8 - STRING #199 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #200 @ $A0BEC - STRING #200 @ $9E578
+
+lockt Gegner an.<LINE>
+//POINTER #201 @ $A0BF0 - STRING #201 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #202 @ $A0BF4 - STRING #202 @ $9E59C
+
+MP+LE werden beim Gehen(nicht<LINE>
+//POINTER #203 @ $A0BF8 - STRING #203 @ $9E5D8
+
+beim Laufen!) aufgefüllt.<LINE>
+//POINTER #204 @ $A0BFC - STRING #204 @ $9E60C
+
+Nahrung. Sättigt Digimon etwas.<LINE>
+//POINTER #205 @ $A0C00 - STRING #205 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #206 @ $A0C04 - STRING #206 @ $9E64C
+
+Nahrung. Sättigt Digimon.<LINE>
+//POINTER #207 @ $A0C08 - STRING #207 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #208 @ $A0C0C - STRING #208 @ $9E680
+
+Sättigt Digimon sehr.<LINE>
+//POINTER #209 @ $A0C10 - STRING #209 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #210 @ $A0C14 - STRING #210 @ $9E6AC
+
+Nahrung.<LINE>
+//POINTER #211 @ $A0C18 - STRING #211 @ $9E6C0
+
+Trainingswirkung steigt kurz.<LINE>
+//POINTER #212 @ $A0C1C - STRING #212 @ $9E6FC
+
+Trainingswirkung Nahrung.<LINE>
+//POINTER #213 @ $A0C20 - STRING #213 @ $9E730
+
+steigt kurz.<LINE>
+//POINTER #214 @ $A0C24 - STRING #214 @ $9E6AC
+
+Nahrung.<LINE>
+//POINTER #215 @ $A0C28 - STRING #215 @ $9E74C
+
+Verringert Müdigkeit sehr.<LINE>
+//POINTER #216 @ $A0C2C - STRING #216 @ $9E60C
+
+Nahrung. Sättigt Digimon etwas.<LINE>
+//POINTER #217 @ $A0C30 - STRING #217 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #218 @ $A0C34 - STRING #218 @ $9E784
+
+Nahrung. Erhöht Disziplin sehr.<LINE>
+//POINTER #219 @ $A0C38 - STRING #219 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #220 @ $A0C3C - STRING #220 @ $9E7C4
+
+Nahrung. Stärkt alle Talente.<LINE>
+//POINTER #221 @ $A0C40 - STRING #221 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #222 @ $A0C44 - STRING #222 @ $9E800
+
+Nahrung. Trainingswirkung<LINE>
+//POINTER #223 @ $A0C48 - STRING #223 @ $9E730
+
+steigt kurz.<LINE>
+//POINTER #224 @ $A0C4C - STRING #224 @ $9E834
+
+Nahrung. Macht Digimon.<LINE>
+//POINTER #225 @ $A0C50 - STRING #225 @ $9E864
+
+glücklich.<LINE>
+//POINTER #226 @ $A0C54 - STRING #226 @ $9E87C
+
+Nahrung. Verr. Müdigkeit,<LINE>
+//POINTER #227 @ $A0C58 - STRING #227 @ $9E8B0
+
+erhöht Disziplin + Glück!<LINE>
+//POINTER #228 @ $A0C5C - STRING #228 @ $9E8E4
+
+Nahrung. Kann teuer verkauft<LINE>
+//POINTER #229 @ $A0C60 - STRING #229 @ $9E920
+
+werden.<LINE>
+//POINTER #230 @ $A0C64 - STRING #230 @ $9E930
+
+Nahrung. Sättigt Dig., erhöht<LINE>
+//POINTER #231 @ $A0C68 - STRING #231 @ $9E96C
+
+Gewicht sehr!<LINE>
+//POINTER #232 @ $A0C6C - STRING #232 @ $9E988
+
+Nahrung. Füllt gesamte LE auf!<LINE>
+//POINTER #233 @ $A0C70 - STRING #233 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #234 @ $A0C74 - STRING #234 @ $9E9C8
+
+Nahrung. Füllt sämtl. MP auf!<LINE>
+//POINTER #235 @ $A0C78 - STRING #235 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #236 @ $A0C7C - STRING #236 @ $9EA04
+
+Nahrung. Senkt das Gewicht!<LINE>
+//POINTER #237 @ $A0C80 - STRING #237 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #238 @ $A0C84 - STRING #238 @ $9EA3C
+
+Nahrung. Füllt ges. LE + MP<LINE>
+//POINTER #239 @ $A0C88 - STRING #239 @ $9EA74
+
+auf.<LINE>
+//POINTER #240 @ $A0C8C - STRING #240 @ $9EA80
+
+Nahrung. Angriff +20!<LINE>
+//POINTER #241 @ $A0C90 - STRING #241 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #242 @ $A0C94 - STRING #242 @ $9EAAC
+
+Nahrung. Abwehr +20!<LINE>
+//POINTER #243 @ $A0C98 - STRING #243 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #244 @ $A0C9C - STRING #244 @ $9EAD8
+
+Nahrung. Tempo +20!<LINE>
+//POINTER #245 @ $A0CA0 - STRING #245 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #246 @ $A0CA4 - STRING #246 @ $9EB00
+
+Nahrung. Intelligenz +20!<LINE>
+//POINTER #247 @ $A0CA8 - STRING #247 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #248 @ $A0CAC - STRING #248 @ $9EB34
+
+Nahrung. LE +200!<LINE>
+//POINTER #249 @ $A0CB0 - STRING #249 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #250 @ $A0CB4 - STRING #250 @ $9EB58
+
+Nahrung. MP +200!<LINE>
+//POINTER #251 @ $A0CB8 - STRING #251 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #252 @ $A0CBC - STRING #252 @ $9E60C
+
+Nahrung. Sättigt Digimon etwas.<LINE>
+//POINTER #253 @ $A0CC0 - STRING #253 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #254 @ $A0CC4 - STRING #254 @ $9E64C
+
+Nahrung. Sättigt Digimon.<LINE>
+//POINTER #255 @ $A0CC8 - STRING #255 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #256 @ $A0CCC - STRING #256 @ $9EB7C
+
+Nahrung. Sättigt Digimon sehr.<LINE>
+//POINTER #257 @ $A0CD0 - STRING #257 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #258 @ $A0CD4 - STRING #258 @ $9E7C4
+
+Nahrung. Stärkt alle Talente.<LINE>
+//POINTER #259 @ $A0CD8 - STRING #259 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #260 @ $A0CDC - STRING #260 @ $9EB7C
+
+Nahrung. Sättigt Digimon sehr.<LINE>
+//POINTER #261 @ $A0CE0 - STRING #261 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #262 @ $A0CE4 - STRING #262 @ $9EA3C
+
+Nahrung. Füllt ges. LE + MP<LINE>
+//POINTER #263 @ $A0CE8 - STRING #263 @ $9EBBC
+
+auf, erhöht L.erwartung!<LINE>
+//POINTER #264 @ $A0CEC - STRING #264 @ $9E60C
+
+Nahrung. Sättigt Digimon etwas.<LINE>
+//POINTER #265 @ $A0CF0 - STRING #265 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #266 @ $A0CF4 - STRING #266 @ $9EBF0
+
+Nahrung. Erhöht Glück, n. ohne<LINE>
+//POINTER #267 @ $A0CF8 - STRING #267 @ $9EC30
+
+Risiko.<LINE>
+//POINTER #268 @ $A0CFC - STRING #268 @ $9EC40
+
+Nahrung. Für vieles gut!<LINE>
+//POINTER #269 @ $A0D00 - STRING #269 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #270 @ $A0D04 - STRING #270 @ $9EC74
+
+Digimon digitiert zu Greymon!<LINE>
+//POINTER #271 @ $A0D08 - STRING #271 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #272 @ $A0D0C - STRING #272 @ $9ECB0
+
+Digimon digitiert zu Meramon!<LINE>
+//POINTER #273 @ $A0D10 - STRING #273 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #274 @ $A0D14 - STRING #274 @ $9ECEC
+
+Digimon digitiert zu Birdramon!<LINE>
+//POINTER #275 @ $A0D18 - STRING #275 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #276 @ $A0D1C - STRING #276 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #277 @ $A0D20 - STRING #277 @ $9ED58
+
+Centarumon!<LINE>
+//POINTER #278 @ $A0D24 - STRING #278 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #279 @ $A0D28 - STRING #279 @ $9ED70
+
+Monochromon!<LINE>
+//POINTER #280 @ $A0D2C - STRING #280 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #281 @ $A0D30 - STRING #281 @ $9ED8C
+
+Drimogenon!<LINE>
+//POINTER #282 @ $A0D34 - STRING #282 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #283 @ $A0D38 - STRING #283 @ $9EDA4
+
+Tyrannomon!<LINE>
+//POINTER #284 @ $A0D3C - STRING #284 @ $9EDBC
+
+Digimon digitiert zu Devimon!<LINE>
+//POINTER #285 @ $A0D40 - STRING #285 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #286 @ $A0D44 - STRING #286 @ $9EDF8
+
+Digimon digitiert zu Ogremon!<LINE>
+//POINTER #287 @ $A0D48 - STRING #287 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #288 @ $A0D4C - STRING #288 @ $9EE34
+
+Digimon digitiert zu Leomon!<LINE>
+//POINTER #289 @ $A0D50 - STRING #289 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #290 @ $A0D54 - STRING #290 @ $9EE70
+
+Digimon digitiert zu Angemon!<LINE>
+//POINTER #291 @ $A0D58 - STRING #291 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #292 @ $A0D5C - STRING #292 @ $9EEAC
+
+Digimon digitiert zu Bakemon!<LINE>
+//POINTER #293 @ $A0D60 - STRING #293 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #294 @ $A0D64 - STRING #294 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #295 @ $A0D68 - STRING #295 @ $9EEE8
+
+Kaminarimon!<LINE>
+//POINTER #296 @ $A0D6C - STRING #296 @ $9EF04
+
+Digimon digitiert zu Airdramon!<LINE>
+//POINTER #297 @ $A0D70 - STRING #297 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #298 @ $A0D74 - STRING #298 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #299 @ $A0D78 - STRING #299 @ $9EF44
+
+Kokatorimon!<LINE>
+//POINTER #300 @ $A0D7C - STRING #300 @ $9EF60
+
+Digimon digitiert zu Unimon!<LINE>
+//POINTER #301 @ $A0D80 - STRING #301 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #302 @ $A0D84 - STRING #302 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #303 @ $A0D88 - STRING #303 @ $9EF9C
+
+Kabuterimon!<LINE>
+//POINTER #304 @ $A0D8C - STRING #304 @ $9EFB8
+
+Digimon digitiert zu Kuwagamon!<LINE>
+//POINTER #305 @ $A0D90 - STRING #305 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #306 @ $A0D94 - STRING #306 @ $9EFF8
+
+Digimon digitiert zu Vegiemon!<LINE>
+//POINTER #307 @ $A0D98 - STRING #307 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #308 @ $A0D9C - STRING #308 @ $9F038
+
+Digimon digitiert zu Ninjamon!<LINE>
+//POINTER #309 @ $A0DA0 - STRING #309 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #310 @ $A0DA4 - STRING #310 @ $9F078
+
+Digimon digitiert zu Seadramon!<LINE>
+//POINTER #311 @ $A0DA8 - STRING #311 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #312 @ $A0DAC - STRING #312 @ $9F0B8
+
+Digimon digitiert zu Whamon!<LINE>
+//POINTER #313 @ $A0DB0 - STRING #313 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #314 @ $A0DB4 - STRING #314 @ $9F0F4
+
+Digimon digitiert zu Shellmon!<LINE>
+//POINTER #315 @ $A0DB8 - STRING #315 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #316 @ $A0DBC - STRING #316 @ $9F134
+
+Digimon digitiert zu Coelamon!<LINE>
+//POINTER #317 @ $A0DC0 - STRING #317 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #318 @ $A0DC4 - STRING #318 @ $9F174
+
+Digimon digitiert zu Garurumon!<LINE>
+//POINTER #319 @ $A0DC8 - STRING #319 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #320 @ $A0DCC - STRING #320 @ $9F1B4
+
+Digimon digitiert zu Frigimon!<LINE>
+//POINTER #321 @ $A0DD0 - STRING #321 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #322 @ $A0DD4 - STRING #322 @ $9F1F4
+
+Digimon digitiert zu Mojyamon!<LINE>
+//POINTER #323 @ $A0DD8 - STRING #323 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #324 @ $A0DDC - STRING #324 @ $9F234
+
+Digimon digitiert zu Nanimon!<LINE>
+//POINTER #325 @ $A0DE0 - STRING #325 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #326 @ $A0DE4 - STRING #326 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #327 @ $A0DE8 - STRING #327 @ $9F270
+
+MetalGreymon!<LINE>
+//POINTER #328 @ $A0DEC - STRING #328 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #329 @ $A0DF0 - STRING #329 @ $9F28C
+
+SkullGreymon!<LINE>
+//POINTER #330 @ $A0DF4 - STRING #330 @ $9F2A8
+
+Digimon digitiert zu Andromon!<LINE>
+//POINTER #331 @ $A0DF8 - STRING #331 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #332 @ $A0DFC - STRING #332 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #333 @ $A0E00 - STRING #333 @ $9F2E8
+
+Megadramon!<LINE>
+//POINTER #334 @ $A0E04 - STRING #334 @ $9F300
+
+Digimon digitiert zu Mamemon!<LINE>
+//POINTER #335 @ $A0E08 - STRING #335 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #336 @ $A0E0C - STRING #336 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #337 @ $A0E10 - STRING #337 @ $9F33C
+
+MetalMamemon!<LINE>
+//POINTER #338 @ $A0E14 - STRING #338 @ $9F358
+
+Digimon digitiert zu Giromon!<LINE>
+//POINTER #339 @ $A0E18 - STRING #339 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #340 @ $A0E1C - STRING #340 @ $9F394
+
+Digimon digitiert zu Piximon!<LINE>
+//POINTER #341 @ $A0E20 - STRING #341 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #342 @ $A0E24 - STRING #342 @ $9F3D0
+
+Digimon digitiert zu Monzaemon!<LINE>
+//POINTER #343 @ $A0E28 - STRING #343 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #344 @ $A0E2C - STRING #344 @ $9F410
+
+Digimon digitiert zu Vademon!<LINE>
+//POINTER #345 @ $A0E30 - STRING #345 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #346 @ $A0E34 - STRING #346 @ $9F44C
+
+Digimon digitiert zu Etemon!<LINE>
+//POINTER #347 @ $A0E38 - STRING #347 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #348 @ $A0E3C - STRING #348 @ $9F488
+
+Dig. digitiert zu Digitamamon!<LINE>
+//POINTER #349 @ $A0E40 - STRING #349 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #350 @ $A0E44 - STRING #350 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #351 @ $A0E48 - STRING #351 @ $9F4C8
+
+Phoenixmon!<LINE>
+//POINTER #352 @ $A0E4C - STRING #352 @ $9F4E0
+
+Dig. digitiert zu<LINE>
+//POINTER #353 @ $A0E50 - STRING #353 @ $9F504
+
+HerculesKabuterimon!<LINE>
+//POINTER #354 @ $A0E54 - STRING #354 @ $9F530
+
+digitiert zu MegaSeadramon!<LINE>
+//POINTER #355 @ $A0E58 - STRING #355 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #356 @ $A0E5C - STRING #356 @ $9F4E0
+
+Dig. digitiert zu<LINE>
+//POINTER #357 @ $A0E60 - STRING #357 @ $9F568
+
+WereGarurumon!<LINE>
+//POINTER #358 @ $A0E64 - STRING #358 @ $9F588
+
+bel. Freundschaft zu Seadramon.<LINE>
+//POINTER #359 @ $A0E68 - STRING #359 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #360 @ $A0E6C - STRING #360 @ $9F5C8
+
+damit kann man im See angeln!<LINE>
+//POINTER #361 @ $A0E70 - STRING #361 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #362 @ $A0E74 - STRING #362 @ $9F604
+
+sorgt für einen guten Fang im<LINE>
+//POINTER #363 @ $A0E78 - STRING #363 @ $9F640
+
+See!<LINE>
+//POINTER #364 @ $A0E7C - STRING #364 @ $9F64C
+
+Steintafel von Leomons<LINE>
+//POINTER #365 @ $A0E80 - STRING #365 @ $9F67C
+
+Vorfahren.<LINE>
+//POINTER #366 @ $A0E84 - STRING #366 @ $9F694
+
+für die Schattenvilla.<LINE>
+//POINTER #367 @ $A0E88 - STRING #367 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #368 @ $A0E8C - STRING #368 @ $9B5D0
+
+rschaften gew.<LINE>
+//POINTER #369 @ $A0E90 - STRING #369 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #370 @ $A0E94 - STRING #370 @ $9F6C4
+
+Nahrung. Füllt 1000 MP<LINE>
+//POINTER #371 @ $A0E98 - STRING #371 @ $9F6F4
+
+auf + and. Wirkungen<$81><$63><LINE>
+//POINTER #372 @ $A0E9C - STRING #372 @ $9E680
+
+Sättigt Digimon sehr.<LINE>
+//POINTER #373 @ $A0EA0 - STRING #373 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #374 @ $A0EA4 - STRING #374 @ $9F720
+
+öffnet einen Kühlschrank.<LINE>
+//POINTER #375 @ $A0EA8 - STRING #375 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #376 @ $A0EAC - STRING #376 @ $9F754
+
+alte Schrift lässt sich lesen!<LINE>
+//POINTER #377 @ $A0EB0 - STRING #377 @ $9B5C4
+
+Meisterschaften gew.<LINE>
+//POINTER #378 @ $A0EB4 - STRING #378 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #379 @ $A0EB8 - STRING #379 @ $9F794
+
+Gigadramon!<LINE>
+//POINTER #380 @ $A0EBC - STRING #380 @ $9ED2C
+
+Digimon digitiert zu<LINE>
+//POINTER #381 @ $A0EC0 - STRING #381 @ $9F7AC
+
+Panjyamon!<LINE>
+//POINTER #382 @ $A0EC4 - STRING #382 @ $9F7C4
+
+Digimon digitiert zuMetalEtemon!<LINE>

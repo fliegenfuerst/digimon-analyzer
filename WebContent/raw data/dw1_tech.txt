@@ -1,0 +1,367 @@
+//GAME NAME:		Digimon World (PS1)
+
+//BLOCK #000 NAME:		Techniken
+
+//POINTER #0 @ $9F944 - STRING #0 @ $9C6BC
+
+Feuerwand<LINE>
+//POINTER #1 @ $9F948 - STRING #1 @ $9C6D0
+
+Bannstrahl<LINE>
+//POINTER #2 @ $9F94C - STRING #2 @ $9C6E8
+
+Feuerspeier<LINE>
+//POINTER #3 @ $9F950 - STRING #3 @ $9C700
+
+Glutinferno<LINE>
+//POINTER #4 @ $9F954 - STRING #4 @ $9C718
+
+Magmabombe<LINE>
+//POINTER #5 @ $9F958 - STRING #5 @ $9C730
+
+Hitzefrei<LINE>
+//POINTER #6 @ $9F95C - STRING #6 @ $9C744
+
+Dauerbrenner<LINE>
+//POINTER #7 @ $9F960 - STRING #7 @ $9C760
+
+Kernschmelze<LINE>
+//POINTER #8 @ $9F964 - STRING #8 @ $9C77C
+
+Donnerschlag<LINE>
+//POINTER #9 @ $9F968 - STRING #9 @ $9C798
+
+Wirbelschuss<LINE>
+//POINTER #10 @ $9F96C - STRING #10 @ $9C7B4
+
+Wolkenladung<LINE>
+//POINTER #11 @ $9F970 - STRING #11 @ $9C7D0
+
+Blitzableiter<LINE>
+//POINTER #12 @ $9F974 - STRING #12 @ $9C7EC
+
+Statik<LINE>
+//POINTER #13 @ $9F978 - STRING #13 @ $9C7FC
+
+Sturmschneider<LINE>
+//POINTER #14 @ $9F97C - STRING #14 @ $9C81C
+
+Wirbelsturm<LINE>
+//POINTER #15 @ $9F980 - STRING #15 @ $9C834
+
+Orkan<LINE>
+//POINTER #16 @ $9F984 - STRING #16 @ $9C840
+
+Polarnacht<LINE>
+//POINTER #17 @ $9F988 - STRING #17 @ $9C858
+
+Eisstatue<LINE>
+//POINTER #18 @ $9F98C - STRING #18 @ $9C86C
+
+Frosthauch<LINE>
+//POINTER #19 @ $9F990 - STRING #19 @ $9C884
+
+Eisnadel<LINE>
+//POINTER #20 @ $9F994 - STRING #20 @ $9C898
+
+Wasserblitz<LINE>
+//POINTER #21 @ $9F998 - STRING #21 @ $9C8B0
+
+Wasserzauber<LINE>
+//POINTER #22 @ $9F99C - STRING #22 @ $9C8CC
+
+Sonnenfrost<LINE>
+//POINTER #23 @ $9F9A0 - STRING #23 @ $9C8E4
+
+Eisträne<LINE>
+//POINTER #24 @ $9F9A4 - STRING #24 @ $9C8F8
+
+Hebebühne<LINE>
+//POINTER #25 @ $9F9A8 - STRING #25 @ $9C90C
+
+Langstrahl<LINE>
+//POINTER #26 @ $9F9AC - STRING #26 @ $9C924
+
+Metallsplitter<LINE>
+//POINTER #27 @ $9F9B0 - STRING #27 @ $9C944
+
+Impulslaser<LINE>
+//POINTER #28 @ $9F9B4 - STRING #28 @ $9C95C
+
+Löschung<LINE>
+//POINTER #29 @ $9F9B8 - STRING #29 @ $9C970
+
+DG-Dimension<LINE>
+//POINTER #30 @ $9F9BC - STRING #30 @ $9C98C
+
+Formatierer<LINE>
+//POINTER #31 @ $9F9C0 - STRING #31 @ $9C9A4
+
+Devolution<LINE>
+//POINTER #32 @ $9F9C4 - STRING #32 @ $9C9BC
+
+Giftpulver<LINE>
+//POINTER #33 @ $9F9C8 - STRING #33 @ $9C9D4
+
+Käfer<LINE>
+//POINTER #34 @ $9F9CC - STRING #34 @ $9C9E0
+
+Moosschild<LINE>
+//POINTER #35 @ $9F9D0 - STRING #35 @ $9C9F8
+
+Insektenplage<LINE>
+//POINTER #36 @ $9F9D4 - STRING #36 @ $9CA14
+
+Lockduft<LINE>
+//POINTER #37 @ $9F9D8 - STRING #37 @ $9CA28
+
+Giftkralle<LINE>
+//POINTER #38 @ $9F9DC - STRING #38 @ $9CA40
+
+Stachel<LINE>
+//POINTER #39 @ $9F9E0 - STRING #39 @ $9CA50
+
+Grüne Hölle<LINE>
+//POINTER #40 @ $9F9E4 - STRING #40 @ $9CA68
+
+Nachwuchsninja<LINE>
+//POINTER #41 @ $9F9E8 - STRING #41 @ $9CA88
+
+Muskelspiel<LINE>
+//POINTER #42 @ $9F9EC - STRING #42 @ $9CAA0
+
+Kampfschrei<LINE>
+//POINTER #43 @ $9F9F0 - STRING #43 @ $9CAB8
+
+Dicke Lippe<LINE>
+//POINTER #44 @ $9F9F4 - STRING #44 @ $9CAD0
+
+Dynamo<LINE>
+//POINTER #45 @ $9F9F8 - STRING #45 @ $9CAE0
+
+Konter<LINE>
+//POINTER #46 @ $9F9FC - STRING #46 @ $9CAF0
+
+Hau den Lukas<LINE>
+//POINTER #47 @ $9FA00 - STRING #47 @ $9CB0C
+
+Hechtsprung<LINE>
+//POINTER #48 @ $9FA04 - STRING #48 @ $9CAD0
+
+Dynamo<LINE>
+//POINTER #49 @ $9FA08 - STRING #49 @ $9CB24
+
+Stinkstiefel<LINE>
+//POINTER #50 @ $9FA0C - STRING #50 @ $9CB40
+
+Dreckschleuder<LINE>
+//POINTER #51 @ $9FA10 - STRING #51 @ $9CB60
+
+Megaschleuder<LINE>
+//POINTER #52 @ $9FA14 - STRING #52 @ $9CB7C
+
+X-Schleuder<LINE>
+//POINTER #53 @ $9FA18 - STRING #53 @ $9CB94
+
+Z-Schleuder<LINE>
+//POINTER #54 @ $9FA1C - STRING #54 @ $9CBAC
+
+Y-Schleuder<LINE>
+//POINTER #55 @ $9FA20 - STRING #55 @ $9CBC4
+
+Scherentritt<LINE>
+//POINTER #56 @ $9FA24 - STRING #56 @ $9CBE0
+
+Sondermüll<LINE>
+//POINTER #57 @ $9FA28 - STRING #57 @ $9CBC4
+
+Scherentritt<LINE>
+//POINTER #58 @ $9FA2C - STRING #58 @ $9CBF8
+
+Sengschlag<LINE>
+//POINTER #59 @ $9FA30 - STRING #59 @ $9CC10
+
+Pfeffer + Salz<LINE>
+//POINTER #60 @ $9FA34 - STRING #60 @ $9CC30
+
+Traumattacke<LINE>
+//POINTER #61 @ $9FA38 - STRING #61 @ $9CC4C
+
+Feuerball<LINE>
+//POINTER #62 @ $9FA3C - STRING #62 @ $9CC60
+
+Todeskralle<LINE>
+//POINTER #63 @ $9FA40 - STRING #63 @ $9CC78
+
+Megaflamme<LINE>
+//POINTER #64 @ $9FA44 - STRING #64 @ $9CC90
+
+Heulboje<LINE>
+//POINTER #65 @ $9FA48 - STRING #65 @ $9CCA4
+
+Tänzchen<LINE>
+//POINTER #66 @ $9FA4C - STRING #66 @ $9CCB8
+
+Elektroschock<LINE>
+//POINTER #67 @ $9FA50 - STRING #67 @ $9CCD4
+
+Warpstrahl<LINE>
+//POINTER #68 @ $9FA54 - STRING #68 @ $9CCEC
+
+Smileybombe<LINE>
+//POINTER #69 @ $9FA58 - STRING #69 @ $9CD04
+
+Drehnadel<LINE>
+//POINTER #70 @ $9FA5C - STRING #70 @ $9CD18
+
+Wirbelwind<LINE>
+//POINTER #71 @ $9FA60 - STRING #71 @ $9CD30
+
+Blasenbombe<LINE>
+//POINTER #72 @ $9FA64 - STRING #72 @ $9CD48
+
+Süßer Odem<LINE>
+//POINTER #73 @ $9FA68 - STRING #73 @ $9CD60
+
+Bitbombe<LINE>
+//POINTER #74 @ $9FA6C - STRING #74 @ $9CD74
+
+Bytebombe<LINE>
+//POINTER #75 @ $9FA70 - STRING #75 @ $9CD88
+
+Wirbelbohrer<LINE>
+//POINTER #76 @ $9FA74 - STRING #76 @ $9CDA4
+
+Zahnschmerz<LINE>
+//POINTER #77 @ $9FA78 - STRING #77 @ $9CDBC
+
+Blitzbombe<LINE>
+//POINTER #78 @ $9FA7C - STRING #78 @ $9CDD4
+
+Auslöscher<LINE>
+//POINTER #79 @ $9FA80 - STRING #79 @ $9CDEC
+
+Gigakralle<LINE>
+//POINTER #80 @ $9FA84 - STRING #80 @ $9CE04
+
+Umnachtung<LINE>
+//POINTER #81 @ $9FA88 - STRING #81 @ $9CE1C
+
+Fausthagel<LINE>
+//POINTER #82 @ $9FA8C - STRING #82 @ $9CE34
+
+Höhere Strafe<LINE>
+//POINTER #83 @ $9FA90 - STRING #83 @ $9CE50
+
+Nachtkralle<LINE>
+//POINTER #84 @ $9FA94 - STRING #84 @ $9CE68
+
+Sturzflug<LINE>
+//POINTER #85 @ $9FA98 - STRING #85 @ $9CE7C
+
+Bumerang<LINE>
+//POINTER #86 @ $9FA9C - STRING #86 @ $9CE90
+
+Sonnenstrahl<LINE>
+//POINTER #87 @ $9FAA0 - STRING #87 @ $9CEAC
+
+Wasserpresse<LINE>
+//POINTER #88 @ $9FAA4 - STRING #88 @ $9CEC8
+
+Eiszapfen<LINE>
+//POINTER #89 @ $9FAA8 - STRING #89 @ $9CEDC
+
+Byteböller<LINE>
+//POINTER #90 @ $9FAAC - STRING #90 @ $9CEF4
+
+Sintflut<LINE>
+//POINTER #91 @ $9FAB0 - STRING #91 @ $9CF08
+
+Königspranke<LINE>
+//POINTER #92 @ $9FAB4 - STRING #92 @ $9CF24
+
+Doppelhieb<LINE>
+//POINTER #93 @ $9FAB8 - STRING #93 @ $9CF3C
+
+Stromstoß<LINE>
+//POINTER #94 @ $9FABC - STRING #94 @ $9CF50
+
+Hagelschwinge<LINE>
+//POINTER #95 @ $9FAC0 - STRING #95 @ $9CF6C
+
+Riesenkoller<LINE>
+//POINTER #96 @ $9FAC4 - STRING #96 @ $9CF88
+
+Alptraum<LINE>
+//POINTER #97 @ $9FAC8 - STRING #97 @ $9CF9C
+
+Froststrahl<LINE>
+//POINTER #98 @ $9FACC - STRING #98 @ $9CFB4
+
+Giftsumach<LINE>
+//POINTER #99 @ $9FAD0 - STRING #99 @ $9CFCC
+
+Blaues Wunder<LINE>
+//POINTER #100 @ $9FAD4 - STRING #100 @ $9CFE8
+
+Scherenhieb<LINE>
+//POINTER #101 @ $9FAD8 - STRING #101 @ $9C77C
+
+Donnerschlag<LINE>
+//POINTER #102 @ $9FADC - STRING #102 @ $9D000
+
+Spiralschwert<LINE>
+//POINTER #103 @ $9FAE0 - STRING #103 @ $9D01C
+
+Vari-Pfeile<LINE>
+//POINTER #104 @ $9FAE4 - STRING #104 @ $9D034
+
+Vulkanschlag<LINE>
+//POINTER #105 @ $9FAE8 - STRING #105 @ $9D050
+
+Frosthieb<LINE>
+//POINTER #106 @ $9FAEC - STRING #106 @ $9D064
+
+Megaschuss<LINE>
+//POINTER #107 @ $9FAF0 - STRING #107 @ $9D07C
+
+Kloake (Nani.)<LINE>
+//POINTER #108 @ $9FAF4 - STRING #108 @ $9D09C
+
+Kloake (Num.)<LINE>
+//POINTER #109 @ $9FAF8 - STRING #109 @ $9D0B8
+
+Scharlachglut<LINE>
+//POINTER #110 @ $9FAFC - STRING #110 @ $9D0D4
+
+Tanzkanone<LINE>
+//POINTER #111 @ $9FB00 - STRING #111 @ $9D0EC
+
+Mahlstrom<LINE>
+//POINTER #112 @ $9FB04 - STRING #112 @ $9CF3C
+
+Stromstoß<LINE>
+//POINTER #113 @ $9FB08 - STRING #113 @ $9D100
+
+Miniblase(Botamon)<LINE>
+//POINTER #114 @ $9FB0C - STRING #114 @ $9D128
+
+Miniblase(Punimon)<LINE>
+//POINTER #115 @ $9FB10 - STRING #115 @ $9D150
+
+Miniblase(Poyomon)<LINE>
+//POINTER #116 @ $9FB14 - STRING #116 @ $9D178
+
+Miniblase(Yuramon)<LINE>
+//POINTER #117 @ $9FB18 - STRING #117 @ $9D1A0
+
+Maxiblase(Koromon)<LINE>
+//POINTER #118 @ $9FB1C - STRING #118 @ $9D1C8
+
+Maxiblase(Tsunomon)<LINE>
+//POINTER #119 @ $9FB20 - STRING #119 @ $9D1F0
+
+Maxiblase(Tokomon)<LINE>
+//POINTER #120 @ $9FB24 - STRING #120 @ $9D218
+
+Maxiblase(Tanemon)<LINE>
